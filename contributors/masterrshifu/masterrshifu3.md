@@ -6,4 +6,6 @@ url_of_github_issue: https://github.com/scaleracademy/scaler-open-source-septemb
 # making some changes again
 #hello hello
 
+#newbiee freebie
+
 ---
